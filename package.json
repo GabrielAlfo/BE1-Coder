@@ -1,0 +1,23 @@
+{
+  "name": "proyecto_final_backend",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "moment": "^2.30.1",
+    "mongodb": "^6.15.0",
+    "mongoose": "^8.13.0",
+    "mongoose-paginate-v2": "^1.9.0",
+    "proyecto_final_backend": "file:",
+    "socket.io": "^4.8.1"
+  }
+}

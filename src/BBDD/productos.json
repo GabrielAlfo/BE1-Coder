@@ -1,0 +1,162 @@
+[
+  {
+    "title": "Cien Años de Soledad",
+    "description": "Obra maestra de Gabriel García Márquez, novela épica de la familia Buendía.",
+    "price": 22.99,
+    "img": "https://example.com/cien-anos-soledad.jpg",
+    "code": "LIBRO001",
+    "stock": 50
+  },
+  {
+    "title": "El Código Da Vinci",
+    "description": "Novela de misterio y suspense de Dan Brown sobre secretos históricos.",
+    "price": 18.5,
+    "img": "https://example.com/codigo-da-vinci.jpg",
+    "code": "LIBRO002",
+    "stock": 75
+  },
+  {
+    "title": "Harry Potter y la Piedra Filosofal",
+    "description": "Primer libro de la saga de J.K. Rowling sobre el mundo mágico de Harry Potter.",
+    "price": 15.99,
+    "img": "https://example.com/harry-potter-1.jpg",
+    "code": "LIBRO003",
+    "stock": 100
+  },
+  {
+    "title": "1984",
+    "description": "Distopía clásica de George Orwell sobre un mundo totalitario.",
+    "price": 16.75,
+    "img": "https://example.com/1984.jpg",
+    "code": "LIBRO004",
+    "stock": 60
+  },
+  {
+    "title": "El Principito",
+    "description": "Novela filosófica de Antoine de Saint-Exupéry sobre la vida y el amor.",
+    "price": 12.5,
+    "img": "https://example.com/principito.jpg",
+    "code": "LIBRO005",
+    "stock": 90
+  },
+  {
+    "title": "Sapiens: De Animales a Dioses",
+    "description": "Ensayo histórico de Yuval Noah Harari sobre la evolución humana.",
+    "price": 25.99,
+    "img": "https://example.com/sapiens.jpg",
+    "code": "LIBRO006",
+    "stock": 45
+  },
+  {
+    "title": "La Sombra del Viento",
+    "description": "Novela de misterio de Carlos Ruiz Zafón ambientada en Barcelona.",
+    "price": 19.5,
+    "img": "https://example.com/sombra-viento.jpg",
+    "code": "LIBRO007",
+    "stock": 70
+  },
+  {
+    "title": "El Alquimista",
+    "description": "Novela filosófica de Paulo Coelho sobre seguir los sueños.",
+    "price": 14.75,
+    "img": "https://example.com/alquimista.jpg",
+    "code": "LIBRO008",
+    "stock": 80
+  },
+  {
+    "title": "Orgullo y Prejuicio",
+    "description": "Clásico de Jane Austen sobre amor y sociedad en la Inglaterra del siglo XIX.",
+    "price": 13.99,
+    "img": "https://example.com/orgullo-prejuicio.jpg",
+    "code": "LIBRO009",
+    "stock": 55
+  },
+  {
+    "title": "Yo Robot",
+    "description": "Obra clásica de Isaac Asimov sobre inteligencia artificial y robótica.",
+    "price": 16.25,
+    "img": "https://example.com/yo-robot.jpg",
+    "code": "LIBRO010",
+    "stock": 65
+  },
+  {
+    "title": "El Nombre del Viento",
+    "description": "Primera novela de la trilogía Crónica del Asesino de Reyes de Patrick Rothfuss.",
+    "price": 21.5,
+    "img": "https://example.com/nombre-viento.jpg",
+    "code": "LIBRO011",
+    "stock": 40
+  },
+  {
+    "title": "Los Juegos del Hambre",
+    "description": "Novela distópica de Suzanne Collins sobre un mundo post-apocalíptico.",
+    "price": 17.75,
+    "img": "https://example.com/juegos-hambre.jpg",
+    "code": "LIBRO012",
+    "stock": 85
+  },
+  {
+    "title": "Así Habló Zaratustra",
+    "description": "Obra filosófica de Friedrich Nietzsche sobre la voluntad de poder.",
+    "price": 18.99,
+    "img": "https://example.com/zaratustra.jpg",
+    "code": "LIBRO013",
+    "stock": 30
+  },
+  {
+    "title": "El Perfume",
+    "description": "Novela histórica de Patrick Süskind sobre un asesino con un olfato extraordinario.",
+    "price": 16.5,
+    "img": "https://example.com/perfume.jpg",
+    "code": "LIBRO014",
+    "stock": 50
+  },
+  {
+    "title": "Crónicas Marcianas",
+    "description": "Colección de relatos de Ray Bradbury sobre la colonización de Marte.",
+    "price": 15.25,
+    "img": "https://example.com/cronicas-marcianas.jpg",
+    "code": "LIBRO015",
+    "stock": 75
+  },
+  {
+    "title": "Matar a un Ruiseñor",
+    "description": "Novela clásica de Harper Lee sobre racismo y justicia en el sur de Estados Unidos.",
+    "price": 14.99,
+    "img": "https://example.com/matar-ruisenor.jpg",
+    "code": "LIBRO016",
+    "stock": 60
+  },
+  {
+    "title": "El Señor de los Anillos",
+    "description": "Obra épica de fantasía de J.R.R. Tolkien, primera parte de la trilogía.",
+    "price": 26.5,
+    "img": "https://example.com/senor-anillos.jpg",
+    "code": "LIBRO017",
+    "stock": 45
+  },
+  {
+    "title": "Frankenstein",
+    "description": "Novela gótica de Mary Shelley sobre ciencia, ética y creación.",
+    "price": 13.75,
+    "img": "https://example.com/frankenstein.jpg",
+    "code": "LIBRO018",
+    "stock": 55
+  },
+  {
+    "title": "La Divina Comedia",
+    "description": "Poema épico de Dante Alighieri sobre un viaje a través del infierno, purgatorio y paraíso.",
+    "price": 22.25,
+    "img": "https://example.com/divina-comedia.jpg",
+    "code": "LIBRO019",
+    "stock": 35
+  },
+  {
+    "title": "Los Miserables",
+    "description": "Novela histórica de Victor Hugo sobre redención y justicia social.",
+    "price": 19.99,
+    "img": "https://example.com/miserables.jpg",
+    "code": "LIBRO020",
+    "stock": 40
+  }
+]
